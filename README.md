@@ -1,0 +1,2 @@
+# UIA---University_Intelligent_Assistent
+This repo is coded with python and we want to create an assistent with llama 3 8B and fine tune it with gelore technique and use it in educational porposes for university.
